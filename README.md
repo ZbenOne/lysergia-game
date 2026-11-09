@@ -1,4 +1,4 @@
-# Lysergia — Enhanced English Edition
+# Lysergia 
 
 A self-contained 2D browser adventure set in Mescaline, a city where cyberpunk streets, medieval ruins, and broken universes overlap.
 
