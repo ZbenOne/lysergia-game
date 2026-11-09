@@ -4,7 +4,7 @@ A self-contained 2D browser adventure set in Mescaline, a city where cyberpunk s
 
 ## Run the game
 
-1. Extract `Lysergia_Enhanced_English.zip`.
+1. Extract `Lysergia_Game.zip`.
 2. Open the extracted folder.
 3. Double-click `index.html` to launch the game in Chrome, Edge, or Firefox.
 4. Select **Start Adventure**, choose a warrior, and play.
